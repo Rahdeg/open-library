@@ -34,7 +34,7 @@ const Signin = () => {
         toast.success(`Welcome to the library ${form.name}`)
         setTimeout(() => {
           window.location='/dashboard'
-        }, 2000);
+        }, 500);
        
         
         }

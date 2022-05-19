@@ -22,6 +22,7 @@ const App = () => {
     <Navigation/>
     <Routes>
    
+        <Route path="/open-library" element={<Home/>} />
         <Route path="/" element={<Home/>} />
         <Route path="/signin" element={<Signin/>} />
 
