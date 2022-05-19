@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/open-library/static/css/main.4b05c2f7.css",
-    "main.js": "/open-library/static/js/main.eb97b082.js",
+    "main.js": "/open-library/static/js/main.a23cef6a.js",
     "static/media/_pie sample 3.jpeg": "/open-library/static/media/5e62f6f4dad6467a6ba6a589_pie sample 3.5e0ba9db528dd21dbcc8.jpeg",
     "static/media/i_Bowling-Stats-in-a-Cricket-Match-Line-Graph_full.jpg": "/open-library/static/media/i_Bowling-Stats-in-a-Cricket-Match-Line-Graph_full.8d894c937385640c8a75.jpg",
     "static/media/i_Most-Frequently-Used-Visuals-Pie-Chart_full.jpg": "/open-library/static/media/i_Most-Frequently-Used-Visuals-Pie-Chart_full.1b16c2ac24f53aaa524a.jpg",
     "index.html": "/open-library/index.html",
     "main.4b05c2f7.css.map": "/open-library/static/css/main.4b05c2f7.css.map",
-    "main.eb97b082.js.map": "/open-library/static/js/main.eb97b082.js.map"
+    "main.a23cef6a.js.map": "/open-library/static/js/main.a23cef6a.js.map"
   },
   "entrypoints": [
     "static/css/main.4b05c2f7.css",
-    "static/js/main.eb97b082.js"
+    "static/js/main.a23cef6a.js"
   ]
 }
