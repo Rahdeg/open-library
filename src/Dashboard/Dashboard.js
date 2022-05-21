@@ -1,8 +1,12 @@
 import React from 'react'
+import Barchart from '../Chart/barchart'
 import { Link } from 'react-router-dom'
-import chart1 from './5e62f6f4dad6467a6ba6a589_pie sample 3.jpeg'
-import chart3 from './i_Bowling-Stats-in-a-Cricket-Match-Line-Graph_full.jpg'
-import chart4 from './i_Most-Frequently-Used-Visuals-Pie-Chart_full.jpg'
+import Doughnut from '../Chart/doughnutchart'
+import Piechart from '../Chart/piechart'
+import Linechart from '../Chart/linechart'
+
+
+
 
 
 const Dashboard = () => {
@@ -47,19 +51,14 @@ const Dashboard = () => {
       
       </div>
       <div className='fl w-80 pa2 ba br4  h-100 '>
-      <div className='flex flex-wrap'>
-     <div> <img src={chart1} alt='ff'/></div>
+      <div className='flex flex-wrap ph1 ml4 mr5'>
+      <Doughnut/>
+      <Barchart/>
+      <Piechart/>
+      <Linechart/>
      
-     <div className='w-100'>
-     <img className='w-50' src={chart3} alt='ff'/>
-     <img className='w-50' src={chart4} alt='ff'/>
-     </div>
      
       </div>
-      
-   
-     
-
       
       </div>
       
